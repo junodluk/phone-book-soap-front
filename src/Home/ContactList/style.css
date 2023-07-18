@@ -1,0 +1,13 @@
+ul {
+    border: 1px solid #dfdfdf;
+    border-radius: 4px;
+}
+
+ul > li .contactInfoContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+ul > li:not(:last-child) {
+    border-bottom: 1px solid #dfdfdf;
+}
