@@ -20,4 +20,4 @@ npm install
 npm run dev
 ```
 
-4. Access [http://localhost:5173/]
+4. Access <http://localhost:5173/>
